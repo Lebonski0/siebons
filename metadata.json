@@ -1,0 +1,5 @@
+{
+  "name": "AquaFlow Loodgieter West-Vlaanderen",
+  "description": "De #1 loodgieter en sanitair specialist in West-Vlaanderen. Badkamerrenovatie, verwarming en dringende herstellingen in Brugge, Oostende en Kortrijk.",
+  "requestFramePermissions": ["geolocation"]
+}
